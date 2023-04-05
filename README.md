@@ -11,4 +11,16 @@ hse homework
 
 Файл [Nhek_15_expanded.bed](Nhek_15_expanded.bed) загружен в genome browser.Получен результат:
 ![image](images/browser.png)
-![image](images/browser1.jpg)
+![image](images/browser.jpg)
+
+Полученные данные позволяют предположить:
+
+Промоутерами: H3K4me1 H3K09me3
+
+Энчансерами:  H3K4me1 H3K4me2
+
+Инсулятором: Ctcf
+
+Элонгациями: H3K4me1 H3K9me3 H4K20me1
+
+Транзициями: Ctcf H3k79me2
